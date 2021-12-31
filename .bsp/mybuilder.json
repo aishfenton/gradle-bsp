@@ -1,0 +1,7 @@
+{
+    "name": "My Build Tool",
+    "version": "1",
+    "bspVersion": "2.0.0",
+    "languages": ["scala"],
+    "argv": ["./runApp"]
+}
